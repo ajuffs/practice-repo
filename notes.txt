@@ -1,3 +1,6 @@
 This is a trial.
 It is proving to be difficult to teach oneself this stuff.
 I don't think I am good at CS.
+I have tried this again and it doesn't work.
+
+This is very difficult, as the instructions are not complete.
